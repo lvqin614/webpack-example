@@ -8,5 +8,3 @@
 3. 执行`npm start`,可打包生产环境代码；
 4. 执行`npm run server`,可开启本地服务器，启动热替换，默认监听8080端口
 
-[点击此处]()可从百度云下载# webpack-example
-# webpack-example
